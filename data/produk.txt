@@ -1,0 +1,3 @@
+Tunik|Pakaian|80000
+Laptop|Elektronik|100000
+Komputer|Elektronik|200000
