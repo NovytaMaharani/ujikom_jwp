@@ -1,4 +1,4 @@
-# Sistem Manajemen Penjualan Berbasis Web - ujikom_jwp_novyta
+# Sistem Manajemen Penjualan Berbasis Web - ujikom_jwp
 
 Proyek ini adalah **Sistem Manajemen Penjualan Berbasis Web** yang dikembangkan untuk **PT. Niaga Mandiri** menggunakan PHP (native). Sistem ini dirancang untuk mengelola dan mengklasifikasikan data penjualan, mengelola kategori produk, serta memberikan analisis penjualan yang berguna. Aplikasi ini tidak menggunakan MySQL atau PHPMyAdmin, melainkan mengandalkan penyimpanan data dalam file teks (`txt`) dan CSV.
 
@@ -22,8 +22,8 @@ Proyek ini adalah **Sistem Manajemen Penjualan Berbasis Web** yang dikembangkan 
 
 1. **Clone repositori**:
    ```bash
-   git clone https://github.com/username/ujikom_jwp_novyta.git
-   cd ujikom_jwp_novyta
+   git clone https://github.com/username/ujikom_jwp.git
+   cd ujikom_jwp
    ```
 2. **Struktur File**:
 
@@ -35,7 +35,7 @@ Proyek ini adalah **Sistem Manajemen Penjualan Berbasis Web** yang dikembangkan 
    - `penjualan.php` : Mengelola data penjualan.
 
 3. **Pastikan server Anda terkonfigurasi** untuk menggunakan PHP. Anda bisa menggunakan `localhost` dengan Apache, atau server web lain yang Anda pilih.
-4. **Buka di browser**: Akses `http://localhost/ujikom_jwp_novyta/index.php` untuk mulai menggunakan sistem.
+4. **Buka di browser**: Akses `http://localhost/ujikom_jwp/index.php` untuk mulai menggunakan sistem.
 
 # Penggunaan 💡
 
